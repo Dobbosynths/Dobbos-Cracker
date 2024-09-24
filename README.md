@@ -4,4 +4,4 @@
 
 <p align="center"><img src="https://imgur.com/QWTSmxr.jpg"></p>
 
-Dobbos Cracker has two options. The first is to find password hashes for comprimised email accounts, to do this it uses the [Breach Directory](https://rapidapi.com/rohan-patra/api/breachdirectory)
+Dobbos Cracker has two options. The first is to find password hashes for comprimised email accounts, to do this it uses the [Breach Directory API](https://rapidapi.com/rohan-patra/api/breachdirectory)
