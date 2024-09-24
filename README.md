@@ -15,3 +15,7 @@ git clone https://github.com/Dobbosynths/Dobbos-Cracker
 cd DobboCracker
 pip install requirements.txt
 python3 DobboCracker.py
+```
+
+<h1 align="center">Usage</h1>
+<p align="center"><img src="https://imgur.com/a/K6W1dnF.jpg"></p>
