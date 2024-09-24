@@ -47,6 +47,8 @@ while menu == True:
     sprint("| |/ / (_) | |_) | |_) | (_) \__ \ \__/\ | | (_| | (__|   <  __/ |      |/,\'   ")
     sprint("|___/ \___/|_.__/|_.__/ \___/|___/\____/_|  \__,_|\___|_|\_\___|_|      |\|/    ")
     sprint("--------------------------------------------------------------------------------")
+    print("Created by: Dobbosynths")
+    print("")
     print("1)Search an email for a hash")
     print("2)Enter a hash to be decrypted")
     print("3)Change or select an api key for breachdirectory")
