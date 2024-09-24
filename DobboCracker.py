@@ -107,7 +107,6 @@ while menu == True:
         key = str(input("What is your api key for breach directory?: "))
         name.write(key)
         name.close()
-        print(open1.read())
     else:
         menu == False
         quit()
