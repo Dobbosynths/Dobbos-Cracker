@@ -6,5 +6,5 @@
 
 ---
 
-Dobbos Cracker has two options. The first is to find password hashes from comprimised email accounts, to do this it uses the [Breach Directory API](https://rapidapi.com/rohan-patra/api/breachdirectory). You can acquire a free api key from the website. The second is to break hashes using the website [Hashes](https://hashes.com/en/decrypt/hash)
+Dobbos Cracker has two options. The first is to find password hashes from comprimised email accounts, to do this it uses the [Breach Directory API](https://rapidapi.com/rohan-patra/api/breachdirectory) (You need an api key to run the first option). You can acquire a free api key from the website. The second is to break hashes using the website [Hashes](https://hashes.com/en/decrypt/hash)
 
