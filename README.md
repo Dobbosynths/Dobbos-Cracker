@@ -11,3 +11,10 @@ Dobbos Cracker has two options. The first is to find password hashes from compri
 ---
 
 <h1 align="center">Installation</h1>
+**Debian**
+
+```bash
+git clone https://github.com/thewhiteh4t/pwnedOrNot.git
+cd DobboCracker
+pip install requirements.txt
+python3 DobboCracker.py
