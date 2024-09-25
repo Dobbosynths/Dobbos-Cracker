@@ -13,7 +13,7 @@ Dobbos Cracker has two options. The first is to find password hashes from compri
 ```bash
 git clone https://github.com/Dobbosynths/Dobbos-Cracker
 cd DobboCracker
-pip install requirements.txt
+pip install -r requirements.txt
 python3 DobboCracker.py
 ```
 
